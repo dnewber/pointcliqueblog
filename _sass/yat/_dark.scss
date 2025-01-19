@@ -105,10 +105,6 @@ html[data-theme="dark"]  {
       color: #bbb;
     }
 
-    .post-excerpt {
-      color: $grey-color;
-    }
-
     .post-list {
       & > li:not(:last-child) {
         border-bottom: 1px solid #545454;
