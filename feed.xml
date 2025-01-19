@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/pointcliqueblog/feed.xml" rel="self" type="application/atom+xml" /><link href="/pointcliqueblog/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-19T03:23:40+00:00</updated><id>/pointcliqueblog/feed.xml</id><title type="html">POINTCLIQUE</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>POINTCLIQUE</name></author><entry><title type="html">Example of a PCQ post</title><link href="/pointcliqueblog/2025/01/07/PCQ-Example.html" rel="alternate" type="text/html" title="Example of a PCQ post" /><published>2025-01-07T00:00:00+00:00</published><updated>2025-01-07T00:00:00+00:00</updated><id>/pointcliqueblog/2025/01/07/PCQ-Example</id><content type="html" xml:base="/pointcliqueblog/2025/01/07/PCQ-Example.html"><![CDATA[<h2 id="this-is-a-preview">This is a preview</h2>
+
+<p>Here is the excerpt text.</p>
+
+<!-- ExcerptEnd -->
+
+<p>Here is the full post text.</p>]]></content><author><name>Dustin</name></author><category term="FirstLook" /><category term="DOS" /><category term="ClassicGaming" /><category term="Author:Dustin" /><category term="Genre:Adventure" /><summary type="html"><![CDATA[This is a preview]]></summary></entry></feed>
